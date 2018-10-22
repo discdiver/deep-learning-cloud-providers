@@ -3,7 +3,7 @@
 | #  | Name | URL |
 | ------------- | ------------- | ------------- |
 |	1	|	Alibaba	|	https://www.alibabacloud.com	|
-|	2	|	AWS on EC2	|	https://aws.amazon.com/machine-learning/amis	|
+|	2	|	AWS EC2	|	https://aws.amazon.com/machine-learning/amis	|
 |	3	|	AWS Sagemaker	|	https://aws.amazon.com/sagemaker	|
 |	4	|	Cirrascale	|	http://www.cirrascale.com	|
 |	5	|	Cogeco Peer 1	|	https://www.cogecopeer1.com	|
