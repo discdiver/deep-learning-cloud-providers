@@ -29,5 +29,6 @@
 |	25	|	Rescale	|	https://www.rescale.com	|
 |	26	|	Salamander	|	https://salamander.ai	|
 |	27	|	Snark.ai	|	https://snark.ai	|
+| 28  | Tensorpad | https://www.tensorpad.com |
 |	28	|	Vast.ai	|	https://vast.ai	|
 |	29	|	Vectordash	|	https://vectordash.com	|
