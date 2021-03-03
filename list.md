@@ -28,9 +28,7 @@
 24	|	Penguin Computing	|	https://www.penguincomputing.com
 25	|	Rapid Switch	|	https://www.rapidswitch.com
 26	|	Rescale	|	https://www.rescale.com
-27	|	Salamander	|	https://salamander.ai
-28  |	Spell	|	https://spell.run
-29	|	Snark.ai	|	https://snark.ai
-30	|	Tensorpad	|	https://www.tensorpad.com
-31	|	Vast.ai	|	https://vast.ai
-32	|	Vectordash	|	https://vectordash.com
+27  |	Spell	|	https://spell.run
+28	|	Tensorpad	|	https://www.tensorpad.com
+29	|	Vast.ai	|	https://vast.ai
+30	|	Vectordash	|	https://vectordash.com
