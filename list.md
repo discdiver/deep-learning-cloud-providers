@@ -30,4 +30,4 @@
 26  |	Spell	|	https://spell.run
 27	|	Tensorpad	|	https://www.tensorpad.com
 28	|	Vast.ai	|	https://vast.ai
-
+29	|	puzl.ee |	https://puzl.ee
